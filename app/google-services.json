@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205500514268",
+    "project_id": "fakeinstagram-2ce99",
+    "storage_bucket": "fakeinstagram-2ce99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205500514268:android:0104b7c2de04f0a14ed919",
+        "android_client_info": {
+          "package_name": "com.example.fakeinstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0VYsrRo3i62xwMtzDSdf5cEpcobWN5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
