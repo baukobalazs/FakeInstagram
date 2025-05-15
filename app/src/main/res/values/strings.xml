@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FakeInstagram</string>
+    <string name="image_content_desc">Kép kiválasztása</string>
 </resources>
